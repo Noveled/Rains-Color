@@ -1,4 +1,3 @@
 # Rains-Color
-네가 보는 비의 색은 어떤 색일까
 
-연습용 웹 개발 프로젝트
+Web Study Project
